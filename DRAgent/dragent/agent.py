@@ -141,7 +141,7 @@ class DRagent(Agent):
         fp.close()
 
         for tmp in listDR:
-            diff = (dt_now - datetime.strptime(tmp["start_dt"], "%d/%m/%y, %H:%M")).total_seconds()
+            diff = abs((dt_now - datetime.strptime(tmp["start_dt"], "%d/%m/%y, %H:%M")).total_seconds())
 
             if diff < 100:
                 # remove from listDR
@@ -209,7 +209,7 @@ class DRagent(Agent):
         fp.close()
 
         for tmp in logsDR:
-            diff = (dt_now - datetime.strptime(tmp["end_dt"], "%d/%m/%y, %H:%M")).total_seconds()
+            diff = abs((dt_now - datetime.strptime(tmp["end_dt"], "%d/%m/%y, %H:%M")).total_seconds())
 
             if diff < 100:
                 # remove from listDR

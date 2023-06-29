@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "start_dt": "14/09/22, 16:30",
+        "end_dt": "14/09/22, 16:45",
+        "p": "0",
+        "eventid": "test",
+        "gatewayid": "test"
+    },
+    {
+        "start_dt": "14/09/22, 17:00",
+        "end_dt": "14/09/22, 17:15",
+        "p": "0",
+        "eventid": "test",
+        "gatewayid": "test"
+    },
+    {
+        "start_dt": "14/09/22, 17:30",
+        "end_dt": "14/09/22, 17:45",
+        "p": "0",
+        "eventid": "6321aae7c2dcb1286b4547a6",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "15/09/22, 09:00",
+        "end_dt": "15/09/22, 10:00",
+        "p": "0",
+        "eventid": "6321b186c2dcb1286b45480e",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "15/09/22, 09:30",
+        "end_dt": "15/09/22, 09:45",
+        "p": "0",
+        "eventid": "63228d63c2dcb1286b45528b",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "15/09/22, 14:45",
+        "end_dt": "15/09/22, 15:00",
+        "p": "0",
+        "eventid": "6322ab57c2dcb1286b4553c9",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "15/09/22, 18:00",
+        "end_dt": "15/09/22, 18:15",
+        "p": "0",
+        "eventid": "632302ecc2dcb1286b4557ba",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "16/09/22, 12:00",
+        "end_dt": "16/09/22, 13:00",
+        "p": "0",
+        "eventid": "6323eb4ac2dcb1286b45628f",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "20/09/22, 18:00",
+        "end_dt": "20/09/22, 19:00",
+        "p": "0",
+        "eventid": "63296d59c2dc694657c9c689",
+        "gatewayid": "ParticipantBEM2"
+    },
+    {
+        "start_dt": "27/09/22, 12:15",
+        "end_dt": "27/09/22, 13:00",
+        "p": "0",
+        "eventid": "63327568c2dc694657dc4faf",
+        "gatewayid": "ParticipantBEM2"
+    }
+]
